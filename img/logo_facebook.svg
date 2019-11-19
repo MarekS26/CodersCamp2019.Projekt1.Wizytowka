@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>logo_facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo_facebook">
+            <rect id="Rectangle-75" fill="#3B5998" x="0" y="0" width="60" height="60" rx="8"></rect>
+            <path d="M29.1874732,18.5434261 L29.1874732,25.6240251 L24,25.6240251 L24,34.2822091 L29.1874732,34.2822091 L29.1874732,60.0112871 L39.8436444,60.0112871 L39.8436444,34.2829265 L46.9944301,34.2829265 C46.9944301,34.2829265 47.6641325,30.1313935 47.9887606,25.5921004 L39.883939,25.5921004 L39.883939,19.6721514 C39.883939,18.7873455 41.0457847,17.5971621 42.1941192,17.5971621 L48,17.5971621 L48,8.5835014 L40.1059774,8.5835014 C28.9240641,8.58290356 29.1874732,17.2496964 29.1874732,18.5434261 L29.1874732,18.5434261 Z" id="Facebook" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
